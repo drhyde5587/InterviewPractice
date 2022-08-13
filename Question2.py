@@ -9,8 +9,10 @@ def posDiv(num):
 
   return divlist
   
+arr=[47,58,17,12,6,25]
 
-print(posDiv(37))
+for num in arr:
+  print(posDiv(num))
 
   
 
