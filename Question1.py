@@ -5,7 +5,7 @@ def isNullorEmpty(test:str)->bool:
         return True
 
 
-str=[None,"","a"," ","N"]
+str=[None,"","a"," ","N",'']
 
 
 for i in str:
