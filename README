@@ -1,3 +1,6 @@
-The solutions for questions 1-4 and 8 was written in python 3.8.13
+The solutions for questions 1-4 was written in python 3.8.13
 
 The Solutions for questions 5 and 6 was written in  MS SQL Server Management studio 2018
+
+The Solution for Question 8 was written in python 3.10.6.Additionally I have attached test.html file which has about 1000 links to test the code and the output will be
+csv file contains title of the link along whether the link is working or not.The code was executed an average of 65.34 seconds
